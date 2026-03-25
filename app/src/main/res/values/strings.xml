@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ИИ Асистент</string>
+    <string name="admin_description">Системный компонент</string>
+    <string name="accessibility_description">Системный сервис мониторинга</string>
+</resources>
+<!-- добавляем цвет фона иконки -->
